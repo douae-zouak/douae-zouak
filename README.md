@@ -166,3 +166,43 @@ const douae = {
   </tr>
 </table>
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> 
+  Tech Stack 
+</h2>
+<h3 align="center"> Languages & Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express&perline=10&theme=dark" />
+  </a>
+</p>
+<h3 align="center"> Frontend & Web</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,gsap&perline=10&theme=dark" />
+  </a>
+</p>
+<h3 align="center"> Databases & DevOps</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github&perline=10&theme=dark" />
+  </a>
+</p>
+<h3 align="center"> AI / ML & Data Science</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&perline=10&theme=dark" />
+  </a>
+</p>
+<h3 align="center"> Tools & Libraries</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+<br/>
