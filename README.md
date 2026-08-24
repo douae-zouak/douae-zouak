@@ -177,19 +177,19 @@ const douae = {
 <h3 align="center"> Languages & Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express&perline=10&theme=dark" />
   </a>
 </p>
 <h3 align="center"> Frontend & Web</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,gsap&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs,gsap&perline=10&theme=dark" />
   </a>
 </p>
 <h3 align="center"> Databases & DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,docker,git,github,postman&perline=10&theme=dark" />
   </a>
 </p>
 <h3 align="center"> AI / ML & Data Science</h3>
@@ -208,13 +208,34 @@ const douae = {
 <br/>
 
 
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                           -->
+<!--                    GITHUB CONTRIBUTION SNAKE                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-snake-dark.svg">
-    <img alt="github snake" src="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
+<br/>
+<hr/>
+<p align="center">
+  <b>🤝 Let's Connect &amp; Build Something Great!</b><br/>
+  I am currently seeking a <b>PFE / Final-Year Internship (starting 2026)</b> in Software Engineering, Full-Stack Development, or AI.<br/>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/douae-zouak" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-E8F4F9?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="https://www.linkedin.com/in/douae-zouak/" />
+  </a>
+  <a href="mailto:douaezouak6@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-FDF2F2?style=for-the-badge&logo=gmail&logoColor=D14836" alt="douaezouak6@gmail.com" />
+  </a>
+  <a href="https://github.com/douae-zouak" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-F5F5F5?style=for-the-badge&logo=github&logoColor=181717" alt="https://github.com/douae-zouak" />
+  </a>
+</p>
+<p align="center">
+    <i>"The best way to predict the future is to invent it."</i><br/><br/>
+</p>
