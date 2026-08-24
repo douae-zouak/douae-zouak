@@ -3,7 +3,7 @@
 <!--                     TYPING ANIMATION                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=75D1FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%26+AI+Enthousiast;Co-founder+@+Lbled+First+|+Spring+Boot+%26+React;Building+RAG+Systems+%26+Intelligent+Agents+;Open+to+Collaboration!+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=75D1FF&center=True&vCenter=true&width=600&lines=Software+Engineering+Student+%26+AI+Enthousiast;Co-founder+@+Lbled+First+|+Spring+Boot+%26+React;Building+RAG+Systems+%26+Intelligent+Agents+;Open+to+Collaboration!+🌟)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://linkedin.com/in/douae-zouak" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-E8F4F9?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="https://www.linkedin.com/in/douae-zouak/" />
@@ -24,7 +24,7 @@
 
 ## 👻 A little about me...
 
-I am a Software Engineering Student & AI Enthusiast with a strong passion for creativity and innovation. My work focuses on building intelligent agents and robust software systems. Guided by continuous self-development, I constantly push my limits and aim for high-quality results.
+I am a **Software Engineering Student & AI Enthusiast** with a strong passion for creativity and innovation. My work focuses on building intelligent agents and robust software systems. Guided by continuous self-development, I constantly push my limits and aim for high-quality results.
 
 I enjoy challenging myself through competitive events; I participated in a coding competition, securing 4th place, and took part in the Ramadan AI hackathon. These experiences have fueled my passion for problem-solving and rapid prototyping.
 
