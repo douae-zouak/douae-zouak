@@ -212,28 +212,9 @@ const douae = {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION SNAKE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center"> 
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="28"> 
-  Contribution Graph 
-</h2>
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-snake-dark.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/douae-zouak/douae-zouak/output/github-snake.svg" width="100%">
   </picture>
-</p>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</p>
-<p align="center">
-  <i>"The best way to predict the future is to implement it."</i> — David Heinemeier Hansson
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Douae%20Zouak-F85D7F?style=flat-square" />
-</p>
+</div>
