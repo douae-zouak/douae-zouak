@@ -67,36 +67,30 @@ const douae = {
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/douae-zouak/RL_auto_scaling" target="_blank">
-        <img src="./assets/auto_scaling.svg" width="100%" alt="Auto-Scaling with Deep RL" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/douae-zouak/Plant-disease-detection-and-segmantation" target="_blank">
-        <img src="./assets/plant_disease.svg" width="100%" alt="Plant Disease Detection" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/douae-zouak/Daman-AI" target="_blank">
-        <img src="./assets/daman_ai.svg" width="100%" alt="Intelligent Document Analysis & RAG" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/douae-zouak" target="_blank">
-        <img src="./assets/meeting_transcription.svg" width="100%" alt="Meeting Transcription & Summarization" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/douae-zouak/Trend-Prediction" target="_blank">
-        <img src="./assets/trend_prediction.svg" width="100%" alt="Trend Detection Platform" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/douae-zouak/FitHub" target="_blank">
-        <img src="./assets/fithub.svg" width="100%" alt="FitHub" />
       </a>
     </td>
   </tr>
