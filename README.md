@@ -62,38 +62,108 @@ const douae = {
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
   Featured Projects 
 </h2>
-
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/douae-zouak/RL_auto_scaling" target="_blank">
-      </a>
+    <td width="50%">
+      <h3 align="center">Auto-Scaling with Deep RL</h3>
+      <p align="center">
+        <a href="https://github.com/douae-zouak/RL_auto_scaling" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Cloud auto-scaling agent benchmarking <b>Double DQN, Dueling DQN & PER</b> against reactive baselines. Built with PyTorch & OpenAI Gym.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=flat"/>
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/douae-zouak/Plant-disease-detection-and-segmantation" target="_blank">
-      </a>
+    <td width="50%">
+      <h3 align="center">Plant Disease Detection</h3>
+      <p align="center">
+        <a href="https://github.com/douae-zouak/Plant-disease-detection-and-segmantation" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Transfer learning benchmark (<b>EfficientNet, ResNet, MobileNet, ViT</b>) with segmentation (<b>U-Net, Mask R-CNN</b>) and XAI explainability.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat"/>
+        <img src="https://img.shields.io/badge/Grad--CAM-FF6F00?style=flat"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/douae-zouak/Daman-AI" target="_blank">
-      </a>
+    <td width="50%">
+      <h3 align="center">Intelligent Document Analysis & RAG</h3>
+      <p align="center">
+        <a href="https://github.com/douae-zouak/Daman-AI" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        OCR-powered document expiration tracking with automatic alerts. Conversational RAG assistant using <b>Mistral/Ollama</b> for administrative guidance.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/OCR-4285F4?style=flat&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM%20(Mistral)-FF7000?style=flat"/>
+        <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat"/>
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/douae-zouak" target="_blank">
-      </a>
+    <td width="50%">
+      <h3 align="center">Meeting Transcription & Summarization</h3>
+      <p align="center">
+        <a href="https://github.com/douae-zouak" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        NLP pipeline for meeting transcription with <b>speaker diarization</b>, summarization, and automatic action-item extraction using Whisper & Flan-T5.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Whisper-000000?style=flat&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/douae-zouak/Trend-Prediction" target="_blank">
-      </a>
+    <td width="50%">
+      <h3 align="center">Trend Detection Platform</h3>
+      <p align="center">
+        <a href="https://github.com/douae-zouak/Trend-Prediction" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Purchase trend analysis platform integrating <b>ARIMA, SARIMA, SARIMAX & Prophet</b> for future sales prediction and business intelligence.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prophet-1877F2?style=flat&logo=facebook&logoColor=white"/>
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/douae-zouak/FitHub" target="_blank">
-      </a>
+    <td width="50%">
+      <h3 align="center">FitHub</h3>
+      <p align="center">
+        <a href="https://github.com/douae-zouak/FitHub" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Fitness platform leveraging AI for personalized workout recommendations and health tracking. Full-stack application with modern UI.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/AI%20Recommendations-FF6F00?style=flat"/>
+      </p>
     </td>
   </tr>
 </table>
 <br/>
-
