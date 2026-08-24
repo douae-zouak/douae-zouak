@@ -3,7 +3,7 @@
 <!--                     TYPING ANIMATION                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=75D1FF&center=True&vCenter=true&width=600&lines=Software+Engineering+Student+%26+AI+Enthousiast;Co-founder+@+Lbled+First+|+Spring+Boot+%26+React;Building+RAG+Systems+%26+Intelligent+Agents+;Open+to+Collaboration!+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=75D1FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%26+AI+Enthousiast;Co-founder+@+Lbled+First+|+Spring+Boot+%26+React;Building+RAG+Systems+%26+Intelligent+Agents+;Open+to+Collaboration!+🌟)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://linkedin.com/in/douae-zouak" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-E8F4F9?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="https://www.linkedin.com/in/douae-zouak/" />
@@ -32,7 +32,6 @@ Currently, I am a RAG System Builder intern at Twins, and I am actively seeking 
 
 ```javascript
 const douae = {
-  pronouns: "she/her",
   role: "Software Engineering Student & AI Enthusiast",
   education: "Computer Science & AI Engineering @ ENSA",
   coFounderOf: "Lbled First (Spring Boot & React)",
@@ -44,8 +43,8 @@ const douae = {
     ]
   },
   skills: {
-    backend: ["Spring Boot", "Java", "Python"],
-    frontend: ["React", "JavaScript", "HTML/CSS"],
+    backend: ["Spring Boot", "Java", "Python", "Fast API", "Node JS", "Express"],
+    frontend: ["React", "JavaScript", "HTML/CSS", "Gsap"],
     ai: ["RAG Systems", "Machine Learning", "Deep Learning", "Reinforcement Learning"]
   },
   currentFocus: {
@@ -58,7 +57,7 @@ const douae = {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FEATURED PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center"> 
+<h2 > 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
   Featured Projects 
 </h2>
